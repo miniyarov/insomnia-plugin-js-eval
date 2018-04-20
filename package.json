@@ -1,0 +1,11 @@
+{
+    "name": "insomnia-plugin-js-eval",
+    "version": "1.0.0",
+    "main": "plugin.js",
+    "insomnia": {
+        "name": "js-eval",
+        "description": "Runs javascript eval on given input"
+    },
+    "dependencies": [],
+    "devDependencies": []
+}

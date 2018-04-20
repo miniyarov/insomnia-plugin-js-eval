@@ -10,4 +10,4 @@ Install the `insomnia-plugin-js-eval` plugin from Preferences > Plugins.
 
 Add `jseval` to your desired environment variable and put your js cod ein `Javascript value` input
 
-![alt text](https://raw.githubusercontent.com/miniyarov/insomnia-plugin-js-eval/master/screenshot/edit-tag.png)
+![Edit Tag](https://raw.githubusercontent.com/miniyarov/insomnia-plugin-js-eval/master/screenshot/edit-tag.png)

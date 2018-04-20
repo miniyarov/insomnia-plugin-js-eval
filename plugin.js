@@ -3,8 +3,8 @@ module.exports.templateTags = [{
     displayName: 'JSEval',
     description: 'Evaluate/run Javascript code',
     args: [{
-        displayName: 'Javascript value',
-        description: 'Javascript value',
+        displayName: 'Javascript code',
+        description: 'Javascript code',
         type: 'string',
         placeholder: 'Your JS Code Here'
     }],

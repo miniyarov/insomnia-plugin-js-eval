@@ -1,11 +1,19 @@
 {
     "name": "insomnia-plugin-js-eval",
+    "description": "Runs javascript eval on given input",
     "version": "1.0.0",
+    "author": {
+        "name": "Ulugbek Miniyarov",
+        "email": "miniyarov@gmail.com",
+        "url": "https://github.com/miniyarov/insomnia-plugin-js-eval/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/miniyarov/insomnia-plugin-js-eval/"
+    },
     "main": "plugin.js",
     "insomnia": {
-        "name": "js-eval",
+        "name": "jseval",
         "description": "Runs javascript eval on given input"
-    },
-    "dependencies": [],
-    "devDependencies": []
+    }
 }

@@ -1,5 +1,7 @@
 # Insomnia Javascript Eval Plugin
 
+[![Build Status](https://travis-ci.org/miniyarov/insomnia-plugin-js-eval.svg?branch=master)](https://travis-ci.org/miniyarov/insomnia-plugin-js-eval) [![codecov](https://codecov.io/gh/miniyarov/insomnia-plugin-js-eval/branch/master/graph/badge.svg)](https://codecov.io/gh/miniyarov/insomnia-plugin-js-eval)
+
 This is a plugin for [Insomnia](https://insomnia.rest/) that allows to eval javascript code to use in environment variables.
 
 ## Instalation

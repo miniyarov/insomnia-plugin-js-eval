@@ -15,5 +15,14 @@
     "insomnia": {
         "name": "jseval",
         "description": "Runs javascript eval on given input"
-    }
+    },
+    "scripts": {
+        "test": "nyc ava && nyc report --reporter=text-lcov > coverage.lcov && codecov"
+    },
+    "devDependencies": {
+        "ava": "1.0.0-beta.4",
+        "codecov": "^3.0.1",
+        "nyc": "^11.7.1"
+    },
+    "dependencies": {}
 }

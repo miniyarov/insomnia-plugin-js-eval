@@ -1,7 +1,7 @@
 {
     "name": "insomnia-plugin-js-eval",
     "description": "Runs javascript eval on given input",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": {
         "name": "Ulugbek Miniyarov",
         "email": "miniyarov@gmail.com",

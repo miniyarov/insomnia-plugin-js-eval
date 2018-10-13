@@ -7,7 +7,7 @@ test('evaluates valid JS', async t => {
 });
 
 test('throws on invalid js', async t => {
-	await t.throws(async () => {
+	await t.throws(() => {
 		templateTags[0].run('', 'new Datee()');
 	}, {instanceOf: Error});
 });

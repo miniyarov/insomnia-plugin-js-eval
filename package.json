@@ -2,7 +2,7 @@
     "name": "insomnia-plugin-js-eval",
     "description": "Runs javascript eval on given input",
     "license": "MIT",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "author": {
         "name": "Ulugbek Miniyarov",
         "email": "miniyarov@gmail.com",
@@ -21,9 +21,9 @@
         "test": "nyc ava && nyc report --reporter=text-lcov > coverage.lcov && codecov"
     },
     "devDependencies": {
-        "ava": "^1.0.0-beta.8",
-        "codecov": "^3.0.1",
-        "nyc": "^13.1.0"
+        "ava": "^1.2.1",
+        "codecov": "^3.1.0",
+        "nyc": "^13.2.0"
     },
     "dependencies": {}
 }
